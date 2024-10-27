@@ -26,35 +26,13 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome To My Resturant</Typography>
+        <Typography variant="h4">Welcome To My Fav Resturant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+        A restaurant is an establishment where meals and drinks are prepared and served to customers, typically in a casual or formal setting. It offers a variety of cuisines and dining experiences, catering to different tastes and preferences. Restaurants can range from fast food to fine dining, each providing a unique atmosphere and menu to enhance the dining experience.
         </p>
         <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+        The ambiance of a restaurant is a critical aspect that greatly influences the dining experience. It encompasses various elements, including lighting, decor, music, and overall layout. Soft, warm lighting can create a cozy atmosphere, while lively music can energize the space. Thoughtful decor, whether rustic, modern, or themed, adds character and sets the tone for the experience. The arrangement of tables and seating contributes to comfort and privacy, allowing guests to enjoy their meals without feeling cramped. Together, these elements create an inviting ambiance that enhances customer satisfaction and encourages patrons to return.
         </p>
       </Box>
     </Layout>
